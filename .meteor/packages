@@ -25,3 +25,6 @@ orionjs:summernote
 orionjs:image-attribute
 standard-minifier-css
 standard-minifier-js
+orionjs:file-attribute
+orionjs:relationships
+orionjs:pages

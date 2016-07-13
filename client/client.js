@@ -13,3 +13,9 @@ Template.hello.events({
   Session.set('counter', Session.get('counter') + 1);
 }
 });
+
+orion.dictionary.addDefinition('description', 'site', {
+  type: String,
+  label: 'Description',
+  defaultValue: 'My description'
+});
