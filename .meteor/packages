@@ -21,10 +21,11 @@ twbs:bootstrap
 fortawesome:fontawesome
 orionjs:bootstrap
 iron:router
-orionjs:summernote
 orionjs:image-attribute
 standard-minifier-css
 standard-minifier-js
 orionjs:file-attribute
 orionjs:relationships
 orionjs:pages
+orionjs:summernote
+summernote:standalone@=0.6.16
