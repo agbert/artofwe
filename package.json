@@ -1,5 +1,5 @@
 {
-  "name": "microscope",
+  "name": "artofwe",
   "private": true,
   "scripts": {
     "start": "meteor run"
